@@ -1,0 +1,24 @@
+Sekcje:
+- header
+- dlaczego warto posiadać napisy?
+	* pomysł 1: zdjęcia na pełną szerokość ekranu z napisami tymi pod
+	* pomysł 2: Bootstrap 4 One Column Portfolio Layout
+
+	- 20% ludzi ma problem ze słuchem (link do gov.pl)
+	- Oglądanie z wyłączonym dźwikięm jest popularne (busy, miejsca publiczne)
+	- Lepsze pozycjonowanie przez algorytm Youtube
+	- Dzięki temu wszystkiemu, dotrzesz do większej ilości odibiorców (zagraniczni)
+
+- dlaczego my
+	- Szybka realizacja zamówień (zwykle 1-2 dni), fa-cogs
+	- Napisy tworzone i sprawdzane przez ludzi, fa-users
+	- 0 błędów, fa-wrench, fa-check
+	- niska cena
+
+- cennik
+	- podanie ceny za minutę napisów polskich
+	- opcja z tłumaczeniem
+
+- skontaktuj się z nami
+	- numer telefonu
+	- email
